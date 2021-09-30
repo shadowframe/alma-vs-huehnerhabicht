@@ -1,5 +1,5 @@
 # Alma vs Hühnerhabicht
-![ima](readme.png)
+![ima](readme.svg)
 
 ## Unityproject based on Tutorial: 
 

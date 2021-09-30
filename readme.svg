@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2308 1805" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="README" transform="matrix(1.21467,0,0,2.04566,1.8819,-175.196)">
+        <rect x="-1.549" y="85.642" width="1899.89" height="882.094" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="-1.549" y="85.642" width="1899.89" height="882.094"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(2.80066,0,0,1.77836,-1506.39,-387.174)">
+                <g transform="matrix(1,0,0,1,-168.133,145.109)">
+                    <g transform="matrix(1,0,0,1,130.706,-5.01961)">
+                        <text x="574.745px" y="551.294px" style="font-family:'SetbackTT-BRK-', 'Setback TT (BRK)';font-size:335px;fill:rgb(225,20,20);">A</text>
+                        <text x="775.745px" y="551.294px" style="font-family:'SetbackTT-BRK-', 'Setback TT (BRK)';font-size:335px;">lm</text>
+                        <text x="1077.25px" y="551.294px" style="font-family:'SetbackTT-BRK-', 'Setback TT (BRK)';font-size:335px;">a</text>
+                    </g>
+                    <g transform="matrix(1.168,0,0,1.168,34.1481,-27.1327)">
+                        <text x="574.745px" y="551.294px" style="font-family:'SetbackTT-BRK-', 'Setback TT (BRK)';font-size:64px;">vs Hühnerhabicht</text>
+                    </g>
+                </g>
+                <g id="new_chicken_alma.png" transform="matrix(5.30909,0,0,5.30909,774.724,231.123)">
+                    <use xlink:href="#_Image2" x="0" y="6" width="49px" height="58px"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image2" width="49px" height="58px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAA6CAYAAAAZW7HfAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABF0lEQVRoge2aPw6CMBSHkTA5G0aIi0MvIsbTeBIP4RlM8CIdXAyMxjg6mejWECIFyjP+8vx9U0P/vS+vLRCIIoLBTHrAarF4+erz2018zlh6wF9ACRSC16cxxrv2x2KtDY5FRSYogQIlUJhy93SnkzHGXTyun95O21PiytZakVhUZEKFRNLf5DPNJSQxRmtpjeK/M9FFfLj7G6Sp9JQ6MkEJFFRIiG/szRc2bh8qMkEJFDqfHIui8L5D13UtGkiWZd76siw7Y1WRCUqgQAkUKIECJVCgBAqUQIESKPCbHQqUQGHyfxaX3crtjeX+PGi8kD4+VGSCEihQAgVKoBB0RjfP+ce1ctfnae7K7fM/pM9QVGRChYQK3o+hNiAO5XdgAAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>
